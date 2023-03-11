@@ -1,5 +1,7 @@
 ## Time series
 
+![](https://latex.codecogs.com/svg.latex?y%3Dx%5E2)
+
 AR: Autoregressive
 
 $y_t=c + \sum_{n=1}^{p} \alpha_n y_{t-n} + \epsilon_t$
