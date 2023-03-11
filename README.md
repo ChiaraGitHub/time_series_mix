@@ -1,12 +1,10 @@
 ## Time series
 
-<img src="https://render.githubusercontent.com/render/math?math=e^{i \pi} = -1">
-
 AR: Autoregressive
 
-$
+$`
 y_t=c \color{steelblue} + \sum_{n=1}^p \alpha_n y_{t-n} \color{default}+\epsilon_t
-$
+`$
 
 MA: Moving Average
 
