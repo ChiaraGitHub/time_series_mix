@@ -2,7 +2,7 @@
 
 AR: Autoregressive
 
-$y_t=c \color{steelblue} + \sum_{n=1}^p \alpha_n y_{t-n} \color{default}+\epsilon_t$
+$y_t=c + \sum_{n=1}^p \alpha_n y_{t-n} + \epsilon_t$
 
 MA: Moving Average
 
