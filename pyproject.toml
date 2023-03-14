@@ -10,6 +10,7 @@ yfinance = "^0.2.12"
 statsmodels = "^0.13.5"
 matplotlib = "^3.7.1"
 ipykernel = "^6.21.3"
+pmdarima = "^2.0.2"
 
 [tool.poetry.dev-dependencies]
 

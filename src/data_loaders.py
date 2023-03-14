@@ -4,7 +4,8 @@ import pandas as pd
 def load_fb_close_stock_price():
     
     data = yf.download('META', start='2011-1-1', end='2021-1-1')
-    
+    data.index = pd.to_datetime(data.index, infer_datetime_format=True)
+
     return data[["Close"]]
 
 def load_air_passangers_data():
