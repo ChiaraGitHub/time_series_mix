@@ -37,7 +37,7 @@ to be set.
 Null Hypothesis: The data is not stationary.
 Alternative Hypothesis: The data is stationary.
 
-# Useful Plots
+### Useful Plots
 - The standard residual plot: should have mean zero and uniform variance
 - Histogram and KDE estimate: the KDE estimate should be close to the normal distribution
 - Normal q-q: most of the points should lie on the straight line
